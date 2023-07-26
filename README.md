@@ -1,6 +1,6 @@
 # RFMID-Multiclass_classification-Focal_Loss
 Solving Class Imbalance problem at the Retinal Fundus Multi-disease Image Dataset by implementing Focal Loss.
-
+ 
 I.Object Detectors
 
 The two-stage approach predominates in modern object recognition. As initially introduced in the Selective Search [1], the first stage creates a sparse set of candidate proposals, and the second stage classifies the proposals into foreground classes. Combining region proposals with Convolutional Neural Networks later improved the second-stage classifier, starting a series of enhancements of the second-stage classifier.
