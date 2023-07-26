@@ -2,6 +2,8 @@
 
 **Solving Class Imbalance problem at the Retinal Fundus Multi-disease Image Dataset by implementing Focal Loss.**
 
+_UROP 2023 THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY_
+
 **DATASET:**
 https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid
  
